@@ -1,7 +1,7 @@
 ## Lab 2
 ### Creating a DoFHandler and visualising sparsity patterns
 
-@author Luca Heltai (luca.heltai@sissa.it)
+author: Luca Heltai (luca.heltai@sissa.it)
 
 Some useful resources
 https://www.dealii.org/current/doxygen/deal.II/step_2.html https://www.dealii.org/current/doxygen/deal.II/namespaceDoFRenumbering.html

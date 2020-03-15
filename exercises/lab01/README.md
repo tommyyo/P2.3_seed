@@ -1,7 +1,7 @@
 ## Lab 1
 ### Creating and manipulating Triangulations
 
-@author Luca Heltai (luca.heltai@sissa.it)
+author: Luca Heltai (luca.heltai@sissa.it)
 
 Some useful resources
 
